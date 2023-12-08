@@ -1,0 +1,361 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+UUMCafe2
+</name>
+</assembly>
+<members>
+<member name="T:UUMCafe2.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:UUMCafe2.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:UUMCafe2.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:UUMCafe2.My.Resources.Resources._exit">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:UUMCafe2.My.Resources.Resources._next">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:UUMCafe2.My.Resources.Resources.back">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:UUMCafe2.My.Resources.Resources.background">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:UUMCafe2.My.Resources.Resources.exiticon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:UUMCafe2.My.Resources.Resources.eye">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:UUMCafe2.My.Resources.Resources.food">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:UUMCafe2.My.Resources.Resources.homeicon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:UUMCafe2.My.Resources.Resources.payment">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:UUMCafe2.My.Resources.Resources.payment1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:UUMCafe2.My.Resources.Resources.payment2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:UUMCafe2.My.Resources.Resources.Restaurant">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:UUMCafe2.My.Resources.Resources.rider">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:UUMCafe2.My.Resources.Resources.tracking">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:UUMCafe2.UUMCafeDatabase5DataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:UUMCafe2.UUMCafeDatabase5DataSet.CustomerDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:UUMCafe2.UUMCafeDatabase5DataSet.FeedbackDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:UUMCafe2.UUMCafeDatabase5DataSet.PaymentDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:UUMCafe2.UUMCafeDatabase5DataSet.RiderDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:UUMCafe2.UUMCafeDatabase5DataSet.StaffDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:UUMCafe2.UUMCafeDatabase5DataSet.CustomerAccountDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:UUMCafe2.UUMCafeDatabase5DataSet.RiderAccountDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:UUMCafe2.UUMCafeDatabase5DataSet.StaffAccountDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:UUMCafe2.UUMCafeDatabase5DataSet.CustomerOrderDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:UUMCafe2.UUMCafeDatabase5DataSet.PromoListDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:UUMCafe2.UUMCafeDatabase5DataSet.PromoPaymentDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:UUMCafe2.UUMCafeDatabase5DataSet.CustomerRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:UUMCafe2.UUMCafeDatabase5DataSet.FeedbackRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:UUMCafe2.UUMCafeDatabase5DataSet.PaymentRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:UUMCafe2.UUMCafeDatabase5DataSet.RiderRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:UUMCafe2.UUMCafeDatabase5DataSet.StaffRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:UUMCafe2.UUMCafeDatabase5DataSet.CustomerAccountRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:UUMCafe2.UUMCafeDatabase5DataSet.RiderAccountRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:UUMCafe2.UUMCafeDatabase5DataSet.StaffAccountRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:UUMCafe2.UUMCafeDatabase5DataSet.CustomerOrderRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:UUMCafe2.UUMCafeDatabase5DataSet.PromoListRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:UUMCafe2.UUMCafeDatabase5DataSet.PromoPaymentRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:UUMCafe2.UUMCafeDatabase5DataSet.CustomerRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:UUMCafe2.UUMCafeDatabase5DataSet.FeedbackRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:UUMCafe2.UUMCafeDatabase5DataSet.PaymentRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:UUMCafe2.UUMCafeDatabase5DataSet.RiderRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:UUMCafe2.UUMCafeDatabase5DataSet.StaffRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:UUMCafe2.UUMCafeDatabase5DataSet.CustomerAccountRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:UUMCafe2.UUMCafeDatabase5DataSet.RiderAccountRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:UUMCafe2.UUMCafeDatabase5DataSet.StaffAccountRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:UUMCafe2.UUMCafeDatabase5DataSet.CustomerOrderRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:UUMCafe2.UUMCafeDatabase5DataSet.PromoListRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:UUMCafe2.UUMCafeDatabase5DataSet.PromoPaymentRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:UUMCafe2.UUMCafeDatabase5DataSetTableAdapters.CustomerTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:UUMCafe2.UUMCafeDatabase5DataSetTableAdapters.FeedbackTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:UUMCafe2.UUMCafeDatabase5DataSetTableAdapters.PaymentTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:UUMCafe2.UUMCafeDatabase5DataSetTableAdapters.RiderTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:UUMCafe2.UUMCafeDatabase5DataSetTableAdapters.StaffTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:UUMCafe2.UUMCafeDatabase5DataSetTableAdapters.CustomerAccountTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:UUMCafe2.UUMCafeDatabase5DataSetTableAdapters.RiderAccountTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:UUMCafe2.UUMCafeDatabase5DataSetTableAdapters.StaffAccountTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:UUMCafe2.UUMCafeDatabase5DataSetTableAdapters.CustomerOrderTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:UUMCafe2.UUMCafeDatabase5DataSetTableAdapters.PromoListTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:UUMCafe2.UUMCafeDatabase5DataSetTableAdapters.PromoPaymentTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:UUMCafe2.UUMCafeDatabase5DataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:UUMCafe2.UUMCafeDatabase5DataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(UUMCafe2.UUMCafeDatabase5DataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:UUMCafe2.UUMCafeDatabase5DataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(UUMCafe2.UUMCafeDatabase5DataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:UUMCafe2.UUMCafeDatabase5DataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(UUMCafe2.UUMCafeDatabase5DataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:UUMCafe2.UUMCafeDatabase5DataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:UUMCafe2.UUMCafeDatabase5DataSetTableAdapters.TableAdapterManager.UpdateAll(UUMCafe2.UUMCafeDatabase5DataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:UUMCafe2.UUMCafeDatabase5DataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:UUMCafe2.UUMCafeDatabase5DataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>
